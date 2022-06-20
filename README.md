@@ -1,8 +1,8 @@
 ## Olá, eu sou a Cíntia Queli, Designer gráfico migrando para área de programação 
 
 <div align- "left">
-<img src= "https://user-images.githubusercontent.com/105984696/174508895-cc888aaa-d946-4753-9654-72e2f71638da.PNG" width= "50px"/>
-</div>
+<img src= "https://user-images.githubusercontent.com/105984696/174508895-cc888aaa-d946-4753-9654-72e2f71638da.PNG" width= "50px"/> Aqui eu pretendo usar minhas habilidades de designer focando no front-end. Aqui abaixo vou listar o que estou aprendendo no Bootcamp da DIO e alguns cursos livres também. Vem comigo acompanhar minha jornada! 
+</div> 
 
 <div align="letf">
   <a href="https://github.com/quelicoelho">
